@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/jeewanbhatta/swagger-ui-xss/refs/heads/main/xss-fetch.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/jeewanbhatta/swagger-ui-xss/refs/heads/main/xss-fetch.yaml",
+            "name": "XSS payload"
+        }
+    ]
+}
