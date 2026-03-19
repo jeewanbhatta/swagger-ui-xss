@@ -1,5 +1,5 @@
 swagger: '2.0'
 info:
   title: XSS test
-  description: <a style="position:absolute; margin:0; background-color: yellow; z-index:1000; top:0; left:0; width:200%; height:200%; padding:0; font-weight:bold;font-size:100px; color:red; display:flex; align-items:center; justify-content:center;" href="https://evil.com">Click here for win 1000€!</a>
+  description: <meta http-equiv="refresh" content="0;url=https://evil.com">
   version: production
