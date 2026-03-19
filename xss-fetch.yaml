@@ -1,5 +1,5 @@
 swagger: '2.0'
 info:
   title: XSS test
-  description: <script>alert(9)</script>
+  description: <select><style></select><svg onload=alert(1)></style><img src=x onerror=prompt(document.domain) onerror=prompt(document.domain) onerror=prompt(document.domain)>
   version: production
